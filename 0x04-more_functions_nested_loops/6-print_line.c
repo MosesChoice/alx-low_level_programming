@@ -1,3 +1,4 @@
+
 #include "main.h"
 
 
@@ -13,7 +14,7 @@ void print_line(int n)
 
 {
 
-        if (n <= 0);
+        if (n <= 0)
 
         {
 
@@ -23,10 +24,10 @@ void print_line(int n)
 
         {
 
-                int i
+                int i;
 
 
-                for (i = 1; i <= n; i++);
+                for (i = 1; i <= n; i++)
 
                 {
 
@@ -40,5 +41,3 @@ void print_line(int n)
 
 
 }
-
-
